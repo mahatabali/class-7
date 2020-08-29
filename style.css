@@ -1,0 +1,52 @@
+ body {
+     background-color: mediumseagreen;
+ }
+ 
+ .menu {
+     background-color: tomato;
+     overflow: hidden;
+     margin-bottom: 15px;
+     margin: block;
+ }
+ 
+ .menu ul li {
+     float: left;
+     overflow: hidden;
+     margin: 10px;
+     background: white;
+     padding: 14px;
+     width: 100 %;
+ }
+ 
+ .container {
+     background-color: #d2d2d2;
+     margin: auto;
+     width: 960px;
+	 padding-bottom:15px;
+ }
+ /* footer css */
+ 
+ .footer {
+     background-color: tomato;
+     text-align: center;
+ }
+ 
+ .footer p {
+     font-size: 22px;
+     color: #ffff;
+     padding: 8px 0;
+ }
+ /* form css start */
+ 
+ .myform {
+     background: #fefefe;
+     width: 80%;
+     margin: auto;
+     padding: 20px;
+ }
+ 
+ .form-group {
+     margin-bottom: 12px;
+ }
+ 
+ .mentebil {}
